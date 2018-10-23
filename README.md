@@ -54,13 +54,13 @@ Crude Diagram and pictures of setup
 
 ![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/waterdiagram.png)
 
-![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl (1).jpg)
+![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl1.jpg)
 
-![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl (2).jpg)
+![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl2.jpg)
 
-![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl (3).jpg)
+![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl3.jpg)
 
-![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl (4).jpg)
+![alt text](https://github.com/jdredd87/ArduinoWaterBowl/blob/master/WaterBowl4.jpg)
 
 -------------------------------------------
 Video of this working
